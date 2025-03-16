@@ -49,11 +49,7 @@
 
 ---
 
-## ⏳ Coding Activity (WakaTime)
-[![wakatime](https://wakatime.com/badge/user/your_id.svg)](https://wakatime.com/@your_id)
 
----
-
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://c.tenor.com/1cIigwthwRIAAAAC/tenor.gif))
 
 _Thanks for visiting my profile!_ 🚀
