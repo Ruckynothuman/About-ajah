@@ -49,7 +49,7 @@
 
 ---
 
-
-![GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://c.tenor.com/1cIigwthwRIAAAAC/tenor.gif))
+## 🚀 Thanks for visiting!
+![GIF](https://c.tenor.com/1cIigwthwRIAAAAC/tenor.gif)
 
 _Thanks for visiting my profile!_ 🚀
