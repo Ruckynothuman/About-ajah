@@ -46,7 +46,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruckynothuman)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ruckyPov)
 [![Linktree](https://img.shields.io/badge/Linktree-%2300C300.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Naptuneel)
-
+[TikTok](https://www.tiktok.com/@naptuneeel)
+[Instagram](https://www.instagram.com/yourusername)
+[Twitter](https://twitter.com/ruckishuman)
+[Reddit](https://www.reddit.com/user/critical_Ravine)
+[Discord](https://discord.gg/2zwUr3jaHx)
+[Roblox](https://www.roblox.com/users/3101268537/profile)
 ---
 
 ## 🚀 Thanks for visiting!
