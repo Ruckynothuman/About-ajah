@@ -25,7 +25,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Luau](https://img.shields.io/badge/luau-blue?style=for-the-badge&logo=lua&logoColor=white)
-
+![GIF](https://c.tenor.com/SDkS_6QSzjgAAAAd/tenor.gif)
 ---
 
 ## 🎮 Recent Projects
@@ -39,7 +39,7 @@
 - 🚀 Mengembangkan game **2D Story Game**
 - 🔧 Meningkatkan skill dalam **data analytics & visualisasi**
 - 🎯 Belajar framework baru seperti **React atau Three.js** untuk proyek game 3D
-
+![GIF](https://media.tenor.com/piOupYyLux0AAAAi/anime-kitty.gif)
 ---
 
 ## 🌐 Connect with Me
