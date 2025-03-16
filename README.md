@@ -22,6 +22,6 @@ Halo perkenalkan Nama saya Raka sabari pratama. Saya lahir pada tahun 2009-11-22
 
 - 🎥 [Linktree]([https://tiktok.com/yogakokxd](https://linktr.ee/Naptuneel))
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yogaxdd&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Ruckynothuman&show_icons=true&theme=radical))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruckynothuman &show_icons=true&theme=radical)
 
 Thanks for wacthing my bio ! 
